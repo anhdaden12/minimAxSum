@@ -1,0 +1,2 @@
+# minimAxSum
+hackerrank practice
